@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kashifmahmood47
-- 👀 I’m interested in Java, C++, HTML, CSS, JAVASCRIPT, PHP.
-- 🌱 I’m currently learning JAVA.
+- 👀 I’m interested in WordPress, Shopify, HTML, CSS, JAVASCRIPT, PHP, NODE JS, REACT JS, NEXT JS.
+- 🌱 I’m currently learning JAVASCRIPT.
 - 📫 Contact me at ikashifmahmood.business@gmail.com
 
 <!---
