@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @kashifmahmood47
-- 👀 I’m interested in WordPress, Shopify, HTML, CSS, JAVASCRIPT, PHP, NODE JS, REACT JS, NEXT JS. EXPRESS JS, MONGO DB & BLOCKCHAIN.
-- 🌱 I’m currently learning MERN Stack Development & Blockchain.
-- 📫 Contact me at ikashifmahmood.business@gmail.com
+Hi there, I'm Kashif Mahmood 👋
+I am a Full-Stack Developer with a passion for WordPress, Shopify, PHP, MERN Stack Development, and Blockchain technology. I have several years of experience in web development and I am constantly learning and exploring new technologies to stay up-to-date with the latest trends.
 
-<!---
-kashifmahmood47/kashifmahmood47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What I'm interested in
+WordPress
+Shopify
+PHP
+MERN Stack Development
+Blockchain
+How to reach me
+Feel free to contact me at kashif@pioneerstrikes.com. I am always happy to connect and discuss new opportunities, projects or collaborations.
+
+My GitHub Stats
+![Kashif's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashifmahmood47&show_icons=true&theme=radical)
+
+Thank you for taking the time to view my profile!
